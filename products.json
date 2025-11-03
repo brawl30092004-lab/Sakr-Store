@@ -23,7 +23,7 @@
   {
     "id": 2,
     "name": "R50i Semi Original",
-    "price": 500.00,
+    "price": 550.00,
     "description": "ROVSKI New A.n.k.e.r Soundcore R50i True Wireless Earbuds, 10mm Driver, AI-Enhanced Calls via 2 Built-In Microphone, 22 Presets EQS, 10H Playtime, Customize Controls, IPX5 Waterproof, ",
     "image": "images/product-2-primary.webp",
     "images": {
@@ -34,8 +34,8 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 500.00,
     "stock": 10,
     "isNew": true
   },
