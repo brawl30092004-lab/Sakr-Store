@@ -15,10 +15,10 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 850.00,
     "stock": 10,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 2,
