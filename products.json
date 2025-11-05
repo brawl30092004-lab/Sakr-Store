@@ -15,10 +15,10 @@
       ]
     },
     "category": "Airpods",
-    "discount": true,
-    "discountedPrice": 850.00,
+    "discount": false,
+    "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 2,
@@ -34,15 +34,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": true,
-    "discountedPrice": 500.00,
+    "discount": false,
+    "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 3,
     "name": "START TWS01F ",
-    "price": 650.00,
+    "price": 550.00,
     "description": "Quick Connect Technology – Stable Bluetooth connection for smooth pairing with your smartphone or tablet.\nPure Bass Sound – High-quality drivers deliver deep bass and clear audio for music and calls.\nSmart Touch Control – Control music playback, calls, and voice assistants with a simple touch.\nLong Battery Life – Up to 4 hours of continuous playback on a single charge; the charging case extends usage 3–4 times.\nCompact Charging Case – 250mAh case capacity keeps your earbuds powered on the go.\nComfortable In-Ear Fit – Lightweight ergonomic design for secure and comfortable wear all day.\nUniversal Compatibility – Works with iOS, Android, and other Bluetooth-enabled devices.",
     "image": "images/product-3-primary.webp",
     "images": {
@@ -54,10 +54,10 @@
       ]
     },
     "category": "Airpods",
-    "discount": true,
-    "discountedPrice": 550.00,
+    "discount": false,
+    "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 4,
@@ -76,7 +76,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 5,
@@ -95,7 +95,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 6,
@@ -115,7 +115,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 7,
@@ -135,7 +135,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 9,
@@ -156,7 +156,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 10,
@@ -177,7 +177,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 11,
@@ -197,7 +197,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 12,
@@ -215,10 +215,10 @@
       ]
     },
     "category": "Airpods",
-    "discount": true,
-    "discountedPrice": 199.99,
+    "discount": false,
+    "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 13,
@@ -237,7 +237,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 14,
@@ -256,7 +256,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 15,
@@ -275,7 +275,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 16,
@@ -295,7 +295,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 17,
@@ -314,7 +314,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 18,
@@ -333,7 +333,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 19,
@@ -352,7 +352,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 20,
@@ -371,7 +371,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 21,
@@ -391,7 +391,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 22,
@@ -409,7 +409,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 23,
@@ -427,7 +427,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 24,
@@ -447,7 +447,7 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 25,
@@ -463,12 +463,12 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 26,
     "name": "Lenovo HE05X Waterproof Magnetic Bluetooth Wireless",
-    "price": 345.00,
+    "price": 340.00,
     "description": "\nBrand Name\tLenovo\nColor\tBlack\nHeadphones Ear Placement\tOver Ear\nHeadphones Form Factor\tIn Ear\nNoise Control\tNone\nSensitivity\t92 dB\nHeadphones Jack\t3.5 mm Jack\nModel Name\tHE05X\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-26-primary.webp",
     "images": {
@@ -483,6 +483,6 @@
     "discount": false,
     "discountedPrice": 0.00,
     "stock": 10,
-    "isNew": true
+    "isNew": false
   }
 ]
