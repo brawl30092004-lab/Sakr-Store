@@ -748,5 +748,197 @@
     "discountedPrice": 0.00,
     "stock": 5,
     "isNew": true
+  },
+  {
+    "id": 42,
+    "name": "X-FAST 35W USB-C Power Adapter.",
+    "price": 250.00,
+    "description": "The adapter is compatible with the iPhone .\nIt features a 35W output and a USB-C port. \nThe adapter is designed for fast charging and includes a USB-C to Lightning cable. \nIt is described as a compact and portable charger suitable for travel, home, or office use. \nSome versions of 35W USB-C adapters have built-in safety features to protect against over-voltage, overheating, and short circuits. ",
+    "image": "images/product-42-primary.webp",
+    "images": {
+      "primary": "images/product-42-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 43,
+    "name": "Anker USB-C to Lightning Cable. ",
+    "price": 69.99,
+    "description": "This is a 1-meter cable designed for charging Apple devices.\nThe packaging indicates it supports Power Delivery (PD) with a 20W output.\nThe cable is compatible with iPhones and other Apple products that use a Lightning port.\nThe product is available for purchase from various electronics retailers and online stores.",
+    "image": "images/product-43-primary.webp",
+    "images": {
+      "primary": "images/product-43-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 44,
+    "name": "X-FAST USB-C to C 35W Power Adapter",
+    "price": 169.99,
+    "description": "Model: X-003\nPower: 35W\nPorts: It has a USB-C port and is designed for fast charging. \nCompatibility: The adapter is compatible with a wide range of devices, including iPhones, iPads, and other USB-powered devices",
+    "image": "images/product-44-primary.webp",
+    "images": {
+      "primary": "images/product-44-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 45,
+    "name": "Kingdom Golden\" brand fast charger, model Ki-13, with a 25W",
+    "price": 299.99,
+    "description": "It is a dual-port charger with a USB and a Type-C port. \nThe charger is marketed as \"FASTER AND SMALLER\". \nIt has a power output of 25W. \nIt features protection against over-voltage, short circuits, and high temperatures. ",
+    "image": "images/product-45-primary.webp",
+    "images": {
+      "primary": "images/product-45-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 2,
+    "isNew": true
+  },
+  {
+    "id": 46,
+    "name": "STEEL 65W fast charger adapter",
+    "price": 199.99,
+    "description": "Power: It has a maximum output of 65W.\nTechnology: It utilizes GaN technology, which allows for a smaller, more efficient charger. \nCompatibility: It is compatible with various devices, including laptops, smartphones, and tablets from brands like Apple, Samsung, and others. ",
+    "image": "images/product-46-primary.webp",
+    "images": {
+      "primary": "images/product-46-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 47,
+    "name": "Everest Fast Three Port Charger (Model EV-078)",
+    "price": 549.99,
+    "description": "Product Name: Everest Fast Three Port Charger (Model EV-078)\nPorts: USB-A, USB-C, and USB-L (Lightning)\nFeatures: Fast charging, safety certification, and a portable design\nCompatibility: Supports various USB charging digital devices.",
+    "image": "images/product-47-primary.webp",
+    "images": {
+      "primary": "images/product-47-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 48,
+    "name": "Samsung 25W PD (Power Delivery) USB-C adapter",
+    "price": 349.99,
+    "description": "This wall charger provides Super Fast Charging at up to 25W for compatible devices. \nIt is designed to be used with a USB-C to USB-C charging cable. \nThe charger is available in both black and white. \nIt is designed to be safe from overcurrent, short circuits, and high temperatures",
+    "image": "images/product-48-primary.webp",
+    "images": {
+      "primary": "images/product-48-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 49,
+    "name": "35W USB-C Power Adapter.",
+    "price": 449.99,
+    "description": "It is a dual USB-C port compact power adapter that allows you to charge two devices at the same time. \nThe adapter is compatible with any USB-C-enabled device, including iPhone, iPad, Apple Watch, AirPods, and MacBook Air. \nThe compact size and folding pins make it easy to pack and store. ",
+    "image": "images/product-49-primary.webp",
+    "images": {
+      "primary": "images/product-49-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 50,
+    "name": "35W USB-C Power Adapter, which is marketed for use with the iPhone",
+    "price": 475.00,
+    "description": "The adapter is designed for fast charging and has a power output of 35W. \nIt is compatible with devices that use a USB-C charging cable. \nThe adapter's compact size and folding pins make it easy to pack and store. ",
+    "image": "images/product-50-primary.webp",
+    "images": {
+      "primary": "images/product-50-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 51,
+    "name": " Apple 20W USB-C Power Adapter.",
+    "price": 939.99,
+    "description": "It is a wall charger that provides fast and efficient charging for compatible devices. \nIt is compatible with any USB-C enabled device, but Apple recommends pairing it with the 11-inch iPad Pro and 12.9-inch iPad Pro (3rd generation) for optimal charging performance. \nIt can charge an iPhone 8 or later up to 50% in about 35 minutes. \nThe adapter is available in white. \nThe charging cable is sold separately",
+    "image": "images/product-51-primary.webp",
+    "images": {
+      "primary": "images/product-51-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 2,
+    "isNew": true
+  },
+  {
+    "id": 52,
+    "name": " Everest PD 20W Bright Fast Charger, model EV-200",
+    "price": 399.99,
+    "description": "The product is an Everest PD 20W Bright Fast Charger, model EV-200. \nModel: EV-200\nCharging technology: PD (Power Delivery) 20W fast charging.\nPort type: USB-C.\nManufacturer: Everest.",
+    "image": "images/product-52-primary.webp",
+    "images": {
+      "primary": "images/product-52-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 53,
+    "name": "Everest 45W Super Fast Adapter",
+    "price": 289.99,
+    "description": "It is a QC3.0 + PD charger, meaning it supports Quick Charge 3.0 and Power Delivery fast-charging standards. \nThe charger has a maximum power output of 45W, which is suitable for charging various devices, including laptops, tablets, and smartphones. \nIt is designed to provide fast and efficient charging, with some chargers of this type claiming to charge devices up to three times faster than a standard 5W charger. \nThe charger is a wall adapter and appears to have a single USB port. \n",
+    "image": "images/product-53-primary.webp",
+    "images": {
+      "primary": "images/product-53-primary.webp",
+      "gallery": []
+    },
+    "category": "Chargers_Cables_Adapter",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
   }
 ]
