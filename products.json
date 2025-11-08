@@ -523,5 +523,198 @@
     "discountedPrice": 0.00,
     "stock": 5,
     "isNew": true
+  },
+  {
+    "id": 29,
+    "name": "Oraimo FreePods Lite OEB-E106DC",
+    "price": 800.00,
+    "description": "Clear stereo sound with high quality.\n\nStylish design in black.\n\nComfortable fit with secure wear.\n\nPerfect for music and calls in daily use.\n\nGood battery life for longer use without frequent charging.\nSKU: OR944CA3ANA2PNAFAMZ\nModel: FreePods Lite OEB-E106DC\nColor: Black",
+    "image": "images/product-29-primary.webp",
+    "images": {
+      "primary": "images/product-29-primary.webp",
+      "gallery": [
+        "images/product-29-gallery-0.webp",
+        "images/product-29-gallery-1.webp",
+        "images/product-29-gallery-2.webp"
+      ]
+    },
+    "category": "Airpods",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 30,
+    "name": "Micro SD T17 Card Reader",
+    "price": 25.00,
+    "description": "\nBrand Name\tOther\nMedia Type\tSD Card\nConnectivity Technology\tUSB 2.0\nSpecial Features\tcompact size\nColor\tblue\nCompatible Devices\tDesktop, Laptop\nModel Name\tMT\nHardware Interface\tMicroSD, USB 2.0\nManufacturer\tOther\nSlot Count\t1",
+    "image": "images/product-30-primary.webp",
+    "images": {
+      "primary": "images/product-30-primary.webp",
+      "gallery": [
+        "images/product-30-gallery-0.webp",
+        "images/product-30-gallery-2.webp"
+      ]
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 6,
+    "isNew": true
+  },
+  {
+    "id": 31,
+    "name": " OT108C USB 3.1 to USB-C adapter",
+    "price": 49.99,
+    "description": "Brand: Earldom \nModel: OT108C\nFunctionality: Converts a USB 3.1 Type-A port to a USB Type-C port, supporting fast charging and data transfer. \nFeatures: Plug-and-play functionality, high-speed data transmission, and support for USB On-The-Go (OTG) devices. ",
+    "image": "images/product-31-primary.webp",
+    "images": {
+      "primary": "images/product-31-primary.webp",
+      "gallery": [
+        "images/product-31-gallery-0.webp"
+      ]
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 10,
+    "isNew": true
+  },
+  {
+    "id": 32,
+    "name": "Earldom ET-OT03",
+    "price": 49.99,
+    "description": "\nCompatible Devices\tCellular Phones\nConnector Type\tMicro USB\nColor\tBlack\nBrand Name\tEarldom\nItem Package Quantity\t1\nInput Voltage\t240 Volts\nPower Plug\tNo Plug\nManufacturer\tEarldom",
+    "image": "images/product-32-primary.webp",
+    "images": {
+      "primary": "images/product-32-primary.webp",
+      "gallery": [
+        "images/product-32-gallery-1.webp"
+      ]
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 33,
+    "name": "card reader USB 2.0",
+    "price": 19.99,
+    "description": "\nBrand Name\tGeneric\nMedia Type\tmicroSD\nConnectivity Technology\tMicro USB, USB Type A\nSpecial Features\tPlug & Play, Extended Jack\nCompatible Devices\tLinux, Smartphone, Windows, macOS\nHardware Interface\tUSB 2.0\nManufacturer\tGENARIC",
+    "image": "images/product-33-primary.webp",
+    "images": {
+      "primary": "images/product-33-primary.webp",
+      "gallery": [
+        "images/product-33-gallery-0.webp",
+        "images/product-33-gallery-1.webp"
+      ]
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 34,
+    "name": "Bluetooth USB Adapter Dongle",
+    "price": 89.99,
+    "description": "Brand Name\tGeneric\nMaterial\tMetal\nItem Weight\t50 Grams\nColor\tSilver\nBluetooth support?\tYes\nConnector Type\tUSB Type A\nData Link Protocol\tbluetooth",
+    "image": "images/product-34-primary.webp",
+    "images": {
+      "primary": "images/product-34-primary.webp",
+      "gallery": [
+        "images/product-34-gallery-0.webp",
+        "images/product-34-gallery-1.webp"
+      ]
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 35,
+    "name": "Kingston USB Memory Sticks 8GB ",
+    "price": 149.99,
+    "description": "Kingston USB Memory Sticks 8GB\n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.\nDTIG4/3 is available in capacities of up to and is backed by a five-year",
+    "image": "images/product-35-primary.webp",
+    "images": {
+      "primary": "images/product-35-primary.webp",
+      "gallery": []
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 36,
+    "name": "Kingston USB Memory Sticks 16GB ",
+    "price": 189.99,
+    "description": "Kingston USB Memory Sticks 16GB \n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.\nDTIG4/3 is available in capacities of up to",
+    "image": "images/product-36-primary.webp",
+    "images": {
+      "primary": "images/product-36-primary.webp",
+      "gallery": []
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 37,
+    "name": "Kingston USB Memory Sticks 32GB",
+    "price": 219.99,
+    "description": "Kingston USB Memory Sticks 32GB \n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.",
+    "image": "images/product-37-primary.webp",
+    "images": {
+      "primary": "images/product-37-primary.webp",
+      "gallery": []
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 38,
+    "name": "Kingston USB Memory Sticks 64GB",
+    "price": 249.99,
+    "description": "Kingston USB Memory Sticks  64GB \n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.",
+    "image": "images/product-38-primary.webp",
+    "images": {
+      "primary": "images/product-38-primary.webp",
+      "gallery": []
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 39,
+    "name": "Kingston USB Memory Sticks128GB",
+    "price": 299.99,
+    "description": "Kingston USB Memory Sticks 128GB\n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.",
+    "image": "images/product-39-primary.webp",
+    "images": {
+      "primary": "images/product-39-primary.webp",
+      "gallery": []
+    },
+    "category": " Card Reader_OTG_Flash",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
   }
 ]
