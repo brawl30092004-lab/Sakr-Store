@@ -1327,5 +1327,102 @@
     "discountedPrice": 0.00,
     "stock": 3,
     "isNew": true
+  },
+  {
+    "id": 78,
+    "name": "HK10 Pro+ multi-functional smartwatch.",
+    "price": 899.99,
+    "description": "Display: It features an AMOLED display with a 410 x 494 resolution. \nFeatures: The smartwatch includes a real compass, NFC access, AI ChatGPT integration, music playback, and an e-book reader. It also supports health tracking for heart rate, blood pressure, and sleep. \nConnectivity: The watch supports Bluetooth calling and can connect to TWS earbuds. \nDesign: It has a sporty design and is rated IP68 for water resistance. ",
+    "image": "images/product-78-primary.webp",
+    "images": {
+      "primary": "images/product-78-primary.webp",
+      "gallery": [
+        "images/product-78-gallery-0.webp",
+        "images/product-78-gallery-1.webp"
+      ]
+    },
+    "category": "Smart Watch",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 79,
+    "name": " HK9 Ultra 2 Max smartwatch",
+    "price": 899.97,
+    "description": "This smartwatch features a 2.12-inch AMOLED screen and 2GB of internal storage. \nIt includes features like health monitoring (heart rate, blood oxygen), fitness tracking, and smart notifications. \nThe watch supports Bluetooth 5.0 for connectivity and has an IP68 water-resistant rating. \nIt also includes an AI-powered voice assistant and a ChatGPT feature. ",
+    "image": "images/product-79-primary.webp",
+    "images": {
+      "primary": "images/product-79-primary.webp",
+      "gallery": [
+        "images/product-79-gallery-0.webp",
+        "images/product-79-gallery-1.webp",
+        "images/product-79-gallery-2.webp"
+      ]
+    },
+    "category": "Smart Watch",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 80,
+    "name": "T900 Ultra2 Big Smart Watch.",
+    "price": 479.99,
+    "description": "t features a large 49mm or 2.19-inch infinite display. \nThe smartwatch supports wireless charging and Bluetooth calling. \nIt is compatible with both Android and iOS devices. \nThe watch includes health monitoring features such as heart rate, blood pressure, and sleep tracking, as well as multiple sports modes. \nThe battery can last up to 5 days on a full charge. ",
+    "image": "images/product-80-primary.webp",
+    "images": {
+      "primary": "images/product-80-primary.webp",
+      "gallery": [
+        "images/product-80-gallery-0.webp",
+        "images/product-80-gallery-1.webp"
+      ]
+    },
+    "category": "Smart Watch",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
+  },
+  {
+    "id": 81,
+    "name": "HK22 Ultra 2 smartwatch",
+    "price": 899.99,
+    "description": "The watch features a high-resolution touchscreen, fitness tracking, heart rate monitoring, and smart notifications. \nIt has Bluetooth 5.2 connectivity and supports making and answering calls. \nSome versions of the watch, such as the HK9 Ultra 2, include a 2.02-inch AMOLED screen, ChatGPT, and a compass. \nThe watch is water-resistant and comes with interchangeable straps. ",
+    "image": "images/product-81-primary.webp",
+    "images": {
+      "primary": "images/product-81-primary.webp",
+      "gallery": [
+        "images/product-81-gallery-0.webp",
+        "images/product-81-gallery-1.webp",
+        "images/product-81-gallery-2.webp"
+      ]
+    },
+    "category": "Smart Watch",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 82,
+    "name": "T1000 Ultra Smart Watch.",
+    "price": 449.99,
+    "description": "It is a smartwatch with a 2.2-inch infinite full-touch display and wireless charging capabilities. \nThe watch features health tracking for heart rate, blood pressure, oxygen levels, and sleep patterns. \nIt has an IP68 waterproof rating and supports Bluetooth calling, allowing you to make and answer calls directly from the watch. \nIt is compatible with both iOS and Android devices. ",
+    "image": "images/product-82-primary.webp",
+    "images": {
+      "primary": "images/product-82-primary.webp",
+      "gallery": [
+        "images/product-82-gallery-0.webp",
+        "images/product-82-gallery-1.webp"
+      ]
+    },
+    "category": "Smart Watch",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 5,
+    "isNew": true
   }
 ]
