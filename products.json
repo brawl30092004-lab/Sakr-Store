@@ -1553,5 +1553,73 @@
     "discountedPrice": 0.00,
     "stock": 3,
     "isNew": true
+  },
+  {
+    "id": 90,
+    "name": "Earldom PB65 Power Bank, a portable charger with a 10000mAh capacity",
+    "price": 399.99,
+    "description": "Model: Earldom PB65\nCapacity: 10000mAh\nOutput: 2A\nPrice: 199 EGP (based on the price shown in the image)\nFeatures: It is a portable power bank with a lithium polymer battery, suitable for charging various devices.",
+    "image": "images/product-90-primary.webp",
+    "images": {
+      "primary": "images/product-90-primary.webp",
+      "gallery": []
+    },
+    "category": "Power Bank",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 91,
+    "name": "Earldom power bank has a capacity of 20000 mAh.",
+    "price": 749.98,
+    "description": "he power bank has a capacity of 20000 mAh.\nIt is a wired power bank with multiple ports.\nThe device features a digital display to show the remaining battery level.\nThe power bank is designed for fast charging.",
+    "image": "images/product-91-primary.webp",
+    "images": {
+      "primary": "images/product-91-primary.webp",
+      "gallery": []
+    },
+    "category": "Power Bank",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 92,
+    "name": " PB-21 fast-charging power bank with a 30,000mAh capacity. ",
+    "price": 1299.99,
+    "description": "It is a fast-charging power bank with a 30,000 mAh capacity. \nThe power bank has a 2.4A output. \nIt is equipped with multiple ports, including USB, Type-C, and Micro USB. \nThe device has a built-in li-polymer battery. ",
+    "image": "images/product-92-primary.webp",
+    "images": {
+      "primary": "images/product-92-primary.webp",
+      "gallery": [
+        "images/product-92-gallery-0.webp"
+      ]
+    },
+    "category": "Power Bank",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
+  },
+  {
+    "id": 93,
+    "name": "Earldom Power Bank 10000mAh ",
+    "price": 549.99,
+    "description": "Capacity: 10000mAh\nOutput: 2.1A\nFeatures: It has two USB output ports and an LCD display.\nModel Number: ET-PB64",
+    "image": "images/product-93-primary.webp",
+    "images": {
+      "primary": "images/product-93-primary.webp",
+      "gallery": [
+        "images/product-93-gallery-0.webp"
+      ]
+    },
+    "category": "Power Bank",
+    "discount": false,
+    "discountedPrice": 0.00,
+    "stock": 3,
+    "isNew": true
   }
 ]
