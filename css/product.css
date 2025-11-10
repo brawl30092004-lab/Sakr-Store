@@ -355,6 +355,11 @@ body.lb-open { overflow: hidden; }
   position: relative;
   overflow: hidden;
   letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 16px;
 }
 
 .product-actions .CartBtn::before {
@@ -390,6 +395,29 @@ body.lb-open { overflow: hidden; }
   outline-offset: 2px;
 }
 
+.product-actions .CartBtn .IconContainer {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.product-actions .CartBtn .IconContainer svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.product-actions .CartBtn .text {
+  font-size: 1em;
+  font-weight: inherit;
+  margin: 0;
+  line-height: 1;
+  white-space: nowrap;
+}
+
 .product-actions .CartBtn.disabled,
 .product-actions .CartBtn:disabled {
   background: var(--card-border);
@@ -403,6 +431,91 @@ body.lb-open { overflow: hidden; }
 .product-actions .CartBtn.disabled::before,
 .product-actions .CartBtn:disabled::before {
   display: none;
+}
+
+/* WhatsApp Button Styling */
+.product-actions .WhatsAppBtn {
+  flex: 1;
+  min-width: min(100%, 200px);
+  max-width: none;
+  height: clamp(50px, 10vw, 56px);
+  font-size: clamp(0.875rem, 1.5vw + 0.5rem, 0.9375rem);
+  font-weight: 600;
+  border-radius: clamp(8px, 1.5vw, 10px);
+  background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+  border: none;
+  color: white;
+  cursor: pointer;
+  box-shadow: 
+    0 2px 4px rgba(37, 211, 102, 0.15),
+    0 1px 2px rgba(0, 0, 0, 0.1);
+  transition: all 0.25s var(--transition-ease);
+  position: relative;
+  overflow: hidden;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 16px;
+}
+
+.product-actions .WhatsAppBtn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.2) 0%, transparent 100%);
+  opacity: 0;
+  transition: opacity 0.25s var(--transition-ease);
+}
+
+.product-actions .WhatsAppBtn:hover {
+  background: linear-gradient(135deg, #20BA5A 0%, #0F7A6B 100%);
+  transform: translateY(-2px);
+  box-shadow: 
+    0 6px 12px rgba(37, 211, 102, 0.3),
+    0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+.product-actions .WhatsAppBtn:hover::before {
+  opacity: 1;
+}
+
+.product-actions .WhatsAppBtn:active {
+  transform: translateY(0);
+  box-shadow: 
+    0 2px 4px rgba(37, 211, 102, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.product-actions .WhatsAppBtn:focus-visible {
+  outline: 3px solid rgba(37, 211, 102, 0.5);
+  outline-offset: 2px;
+}
+
+.product-actions .WhatsAppBtn .IconContainer {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.product-actions .WhatsAppBtn .IconContainer svg {
+  width: 100%;
+  height: 100%;
+  fill: white;
+  display: block;
+}
+
+.product-actions .WhatsAppBtn .text {
+  color: white;
+  font-size: 1em;
+  font-weight: inherit;
+  margin: 0;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .quantity-selector {

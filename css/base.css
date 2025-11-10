@@ -1013,7 +1013,7 @@ nav a:hover {
   padding: 0.5rem; /* Ensure adequate padding for text */
 }
 
-.IconContainer {
+.CartBtn .IconContainer {
   position: absolute;
   inset-inline-start: -50px;
   width: 30px;
@@ -1032,7 +1032,7 @@ nav a:hover {
   border-radius: 1px;
 }
 
-.text {
+.CartBtn .text {
   height: 100%;
   width: fit-content;
   display: flex;
