@@ -163,7 +163,7 @@
     --muted-text: #94a3b8;
     
     /* Price Colors - Brighter for dark mode */
-    --price-regular: #10b981;
+    --price-regular: #ffffff;
     --price-discount: #10b981;
     --price-original: #ef4444;
     
@@ -299,7 +299,7 @@ body.translated-rtl {
   --muted-text: #d1d5db; /* Lightened from #9ca3af for better contrast (9.5:1) */
 
   /* Price Colors - Dark Mode */
-  --price-regular: #10b981; /* Brighter emerald for dark mode visibility */
+  --price-regular: #ffffff; /* Brighter emerald for dark mode visibility */
   --price-discount: #10b981; /* Softer emerald for dark mode */
   --price-original: #f87171; /* Lighter red for dark mode */
   
