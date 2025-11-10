@@ -1496,3 +1496,4 @@ document.addEventListener('DOMContentLoaded', () => {
   // Initial sync
   updateSort(currentSortOrder);
 });
+
