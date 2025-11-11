@@ -1771,5 +1771,23 @@
     "discountedPrice": 559.99,
     "stock": 5,
     "isNew": false
+  },
+  {
+    "id": 102,
+    "name": " ZM-0113H universal desktop stand for phones and tablets. ",
+    "price": 79.99,
+    "description": "Compatible with devices ranging from 4.7 to 13 inches.\nFeatures a fully foldable design for portability.\nMade from all-alloy material with a sleek black finish.\nEquipped with non-slip silicone pads for stability.",
+    "image": "images/product-102-primary.webp",
+    "images": {
+      "primary": "images/product-102-primary.webp",
+      "gallery": [
+        "images/product-102-gallery-0.webp"
+      ]
+    },
+    "category": "Diverse",
+    "discount": true,
+    "discountedPrice": 55.99,
+    "stock": 2,
+    "isNew": true
   }
 ]
