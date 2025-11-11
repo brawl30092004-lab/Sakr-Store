@@ -352,7 +352,7 @@
     "discount": true,
     "discountedPrice": 319.99,
     "stock": 10,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 20,
@@ -409,7 +409,7 @@
     "discount": true,
     "discountedPrice": 287.99,
     "stock": 10,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 23,
@@ -427,7 +427,7 @@
     "discount": true,
     "discountedPrice": 287.99,
     "stock": 10,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 24,
@@ -447,7 +447,7 @@
     "discount": true,
     "discountedPrice": 259.99,
     "stock": 10,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 25,
@@ -463,7 +463,7 @@
     "discount": true,
     "discountedPrice": 279.99,
     "stock": 10,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 26,
@@ -483,7 +483,7 @@
     "discount": true,
     "discountedPrice": 271.99,
     "stock": 10,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 27,
@@ -1227,7 +1227,7 @@
     "discount": true,
     "discountedPrice": 43.99,
     "stock": 5,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 72,
@@ -1243,7 +1243,7 @@
     "discount": true,
     "discountedPrice": 43.99,
     "stock": 2,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 73,
@@ -1259,7 +1259,7 @@
     "discount": true,
     "discountedPrice": 43.99,
     "stock": 3,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 74,
@@ -1278,7 +1278,7 @@
     "discount": true,
     "discountedPrice": 55.99,
     "stock": 3,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 75,
@@ -1294,7 +1294,7 @@
     "discount": true,
     "discountedPrice": 55.99,
     "stock": 5,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": 76,
