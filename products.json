@@ -1739,7 +1739,7 @@
   {
     "id": 100,
     "name": "Inkax Fast Charging Power Bank PB-26 model. ",
-    "price": 450.99,
+    "price": 449.99,
     "description": "Brand: Inkax\nCapacity: 10,000 mAh\nOutput: 2.4A\nModel Number: PB-26\nFeatures: High capacity external battery, fastcharging capability, multiple ports (USB, Type-C, Micro USB depending on specific sub-model)",
     "image": "images/product-100-primary.webp",
     "images": {
@@ -1755,4 +1755,3 @@
     "isNew": true
   }
 ]
-
