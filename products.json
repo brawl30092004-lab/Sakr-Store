@@ -15,8 +15,8 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 719.99,
     "stock": 10,
     "isNew": false
   },
@@ -34,8 +34,8 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 479.99,
     "stock": 10,
     "isNew": false
   },
@@ -54,15 +54,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 479.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 4,
     "name": "START TWS02F",
-    "price": 724.99,
+    "price": 725.00,
     "description": "Quick Connect Technology – Stable Bluetooth connection for smooth pairing with your smartphone or tablet.\nPure Bass Sound – High-quality drivers deliver deep bass and clear audio for music and calls.\nSmart Touch Control – Control music playback, calls, and voice assistants with a simple touch.\nLong Battery Life – Up to 4 hours of continuous playback on a single charge; the charging case extends usage 3–4 times.\nCompact Charging Case – 250mAh case capacity keeps your earbuds powered on the go.\nComfortable In-Ear Fit – Lightweight ergonomic design for secure and comfortable wear all day.\nUniversal Compatibility – Works with iOS, Android, and other Bluetooth-enabled devices.",
     "image": "images/product-4-primary.webp",
     "images": {
@@ -73,15 +73,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 579.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 5,
     "name": "START TWS03F",
-    "price": 649.99,
+    "price": 650.00,
     "description": "Charging Type\tLightning Port\nColour Name\twhite\nConnection Type\tBluetooth\nModel Number\tTWS03f\nBattery Size\t300 mAh\nDepartment\tUnisex\nEarplug Type\tEarbuds\nModel Name\tTWS03f",
     "image": "images/product-5-primary.webp",
     "images": {
@@ -92,15 +92,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 519.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 6,
     "name": "Oraimo Airpods OR6",
-    "price": 299.99,
+    "price": 300.00,
     "description": "Color: black\nBrand Name\tGeneric\nColor\tblack\nHeadphones Ear Placement\tOver Ear\nHeadphones Form Factor\tIn Ear\nImpedance\t10 Ohm\nNoise Control\tNone\nHeadphones Jack\tUSB\nModel Name\tEarbuds OR6\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-6-primary.webp",
     "images": {
@@ -112,15 +112,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 7,
     "name": " Air F9 Pro Plus",
-    "price": 299.99,
+    "price": 300.00,
     "description": "\nBrand Name\tGeneric\nColor\tblue\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nNoise Control\tActive Noise Cancellation (ANC)\nHeadphones Jack\tبلوتوث\nModel Name\tAir F9 Pro Plus\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth\nIncluded Components\tCable, Charging Station",
     "image": "images/product-7-primary.webp",
     "images": {
@@ -132,15 +132,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 9,
     "name": "Air Pods Air 3 Semi original",
-    "price": 349.99,
+    "price": 350.00,
     "description": "\nBrand Name\tGeneric\nColor\tWhite\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tTrue Wireless\nImpedance\t32 Ohm\nNoise Control\tActive Noise Cancellation (ANC)\nFrequency Response\t20 Hz\nSensitivity\t98 dB\nModel Name\tAir Puds 3\nConnectivity Technology\tBluetooth 5.0, Wireless",
     "image": "images/product-9-primary.webp",
     "images": {
@@ -153,15 +153,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 279.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 10,
     "name": "AirPods Pro 3 Wireless Semi Original",
-    "price": 399.99,
+    "price": 400.00,
     "description": "\nBrand Name\tGeneric\nColor\tWhite\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nImpedance\t140 Ohm\nNoise Control\tActive Noise Cancellation (ANC)\nHeadphones Jack\tNo Jack\nModel Name\tAirpods Wireless Earbuds PRO 2nd ge\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-10-primary.webp",
     "images": {
@@ -174,15 +174,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 319.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 11,
     "name": "Airpods pro 2 Semi Original",
-    "price": 449.99,
+    "price": 450.00,
     "description": "\nBrand Name\tGeneric\nColor\tBlack or White\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nNoise Control\tActive Noise Cancellation (ANC)\nHeadphones Jack\tNo Jack\nModel Name\tEarbuds 2nd Pro\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth\nAge Range Description\tAdult",
     "image": "images/product-11-primary.webp",
     "images": {
@@ -194,15 +194,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 359.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 12,
     "name": "M10 TWS Bluetooth 5.1 Earphone",
-    "price": 249.99,
+    "price": 250.00,
     "description": "\nBrand Name\tEESOME\nColor\tblack\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tTrue Wireless\nNoise Control\tActive Noise Cancellation (ANC)\nHeadphones Jack\tNo Jack\nModel Name\tM10\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth\nIncluded Components\tWireless Charging Case\n",
     "image": "images/product-12-primary.webp",
     "images": {
@@ -215,15 +215,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 199.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 13,
     "name": "CELEBRAT T400 Airpods",
-    "price": 649.99,
+    "price": 650.00,
     "description": "Bluetooth 5.1 chip, faster and more stable data transmission, ultra-low latency\n\nSupports master/slave switching, Siri voice assistant can be activated by prolonged pressing of headphones left/right for 2 seconds\n\nWith 13 mm drive unit, supports dual channel function. Combined with the built-in power amplifier chip to create a striking stereo effect, low frequency thick and powerful, high frequency clear and bright.\n\nPrecise touch and convenient operation available\n\nAfter the first successful pairing, subsequent intelligent detection, it is only necessary to open the lid and connect it immediately.",
     "image": "images/product-13-primary.webp",
     "images": {
@@ -234,15 +234,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 519.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 14,
     "name": "Celebrat True Wireless Headset T500 Pro",
-    "price": 749.99,
+    "price": 750.00,
     "description": "Block out noise with advanced technology\nRich, dynamic sound for music, calls, and media\nHD mic clarity for smooth, hands-free conversations\nQuick charge & wireless charging supported\nLatest Bluetooth 5.3 for instant, stable pairing",
     "image": "images/product-14-primary.webp",
     "images": {
@@ -253,15 +253,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 599.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 15,
     "name": "Ai Pods 4 Semi Original",
-    "price": 489.99,
+    "price": 490.00,
     "description": "Color: White\nBrand Name\tGeneric\nColor\tWhite\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nNoise Control\tActive Noise Cancellation (ANC)\nModel Name\tMulti\nConnectivity Technology\tBluetooth, Wireless\nWireless Communication Technology\tBluetooth\nIncluded Components\tCable, User Manual, Wireless Charging Case\nSpecific Uses For Product\tMusic, Phone Calling, Exercising, Commuting",
     "image": "images/product-15-primary.webp",
     "images": {
@@ -272,15 +272,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 391.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 16,
     "name": " P47 wireless headphones.",
-    "price": 229.99,
+    "price": 230.00,
     "description": "The headphones connect via Bluetooth 5.0+EDR and have a range of up to 10 meters. \nThey are foldable and have a built-in microphone for calls. \nThe headphones support multiple modes, including FM radio and TF card playback. \nThey can be used in both wired and wireless modes, with a 3.5mm audio port for a direct connection. \nThe headphones have a rechargeable battery that can last for several hours of use. ",
     "image": "images/product-16-primary.webp",
     "images": {
@@ -292,15 +292,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 183.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 17,
     "name": "P9 Wireless Bluetooth Headset",
-    "price": 229.99,
+    "price": 230.00,
     "description": "Brand Name\tYear\nColor\tBlack\nHeadphones Ear Placement\tOver Ear\nHeadphones Form Factor\tOver Ear\nNoise Control\tActive Noise Cancellation (ANC)\nSensitivity\t105 dB\nHeadphones Jack\tNo Jack\nModel Name\tYear\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-17-primary.webp",
     "images": {
@@ -311,15 +311,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 183.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 18,
     "name": "sodo 1006 Bluetooth Headphone",
-    "price": 459.99,
+    "price": 460.00,
     "description": "\nBrand Name\tsodo\nColor\tgrey\nHeadphones Ear Placement\tOver Ear\nHeadphones Form Factor\tOver Ear\nNoise Control\tActive Noise Cancellation (ANC)\nHeadphones Jack\t3.5 mm Jack\nModel Name\tsodo 1006 Bluetooth Headphone\nConnectivity Technology\tWired, Wireless\nWireless Communication Technology\tBluetooth\nIncluded Components\tEar Cushions, Headband",
     "image": "images/product-18-primary.webp",
     "images": {
@@ -330,15 +330,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 367.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 19,
     "name": "SODO SD-1004 Wireless",
-    "price": 399.99,
+    "price": 400.00,
     "description": "Color: Grey\nBrand Name\tGeneric\nColor\tGrey\nHeadphones Ear Placement\tOver Ear\nHeadphones Form Factor\tOver Ear\nImpedance\t4 Ohm\nNoise Control\tPassive Sound Isolation\nHeadphones Jack\t3.5 mm Jack\nModel Name\tSD-1004\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-19-primary.webp",
     "images": {
@@ -349,15 +349,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 319.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 20,
     "name": "Oraimo Wireless Headphone, Rechargeable, SD Card Slot, Multi-Color, OR-52",
-    "price": 369.99,
+    "price": 370.00,
     "description": "Wireless Rechargeable  Headphone With Excellent quality and clear, loud sound\nSD CARD slot\nComfortable sponge\nUp to 8 hours of music playback\nWireless Headphone , White Color\nRechargeable With Type C  Cable\nBattery 200 mah\nSupport SD Card\nCharge Time  two hours\nEasy control\n",
     "image": "images/product-20-primary.webp",
     "images": {
@@ -368,15 +368,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 295.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 21,
     "name": " Joyroom JR-120 earphones. ",
-    "price": 299.99,
+    "price": 300.00,
     "description": "Model: JR-120\nBrand: Joyroom\nStyle: Ear Hook\nStandby Time: 120 hours or longer\nTalking Time: Up to 3.5 hours",
     "image": "images/product-21-primary.webp",
     "images": {
@@ -388,15 +388,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 22,
     "name": "Earldom Music Wireless Headphones Model BH75",
-    "price": 359.99,
+    "price": 360.00,
     "description": "Connectivity: Bluetooth 5.0 \nBattery Life: Up to 10 hours of music playback and 6 hours of call time \nCharging Time: Approximately 1-2 hours for a full charge \nFeatures: Neckband design, magnetic earbuds, built-in microphone for hands-free calls, and Hi-Fi sound \n",
     "image": "images/product-22-primary.webp",
     "images": {
@@ -406,15 +406,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 287.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 23,
     "name": "BH87 Magnetic Bluetooth Earphones",
-    "price": 359.99,
+    "price": 360.00,
     "description": "\nBrand Name\tGeneric\nColor\tBlack\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nImpedance\t0.01 Ohm\nNoise Control\tPassive Sound Isolation\nHeadphones Jack\tNo Jack (Wireless with Micro USB)\nModel Name\tBH87\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-23-primary.webp",
     "images": {
@@ -424,15 +424,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 287.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 24,
     "name": "Sound core",
-    "price": 324.99,
+    "price": 325.00,
     "description": "Color: Black\nBrand Name\tGeneric\nColor\tBlack\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nImpedance\t32 Ohm\nNoise Control\tActive Noise Cancellation (ANC)\nHeadphones Jack\tNo Jack\nModel Name\tEarphones Life U60I\nConnectivity Technology\tBluetooth, Wireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-24-primary.webp",
     "images": {
@@ -444,15 +444,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 259.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 25,
     "name": "Sound core bluetooth headphones ",
-    "price": 349.99,
+    "price": 350.00,
     "description": "Color: Black\nBrand Name\tGeneric\nColor\tBlack\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nImpedance\t32 Ohm\nNoise Control\tActive Noise Cancellation (ANC)\nHeadphones Jack\tNo Jack\nModel Name\tEarphones Life U60I\nConnectivity Technology\tBluetooth, Wireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-25-primary.webp",
     "images": {
@@ -460,15 +460,15 @@
       "gallery": []
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 279.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 26,
     "name": "Lenovo HE05X Waterproof Magnetic Bluetooth Wireless",
-    "price": 339.99,
+    "price": 340.00,
     "description": "\nBrand Name\tLenovo\nColor\tBlack\nHeadphones Ear Placement\tOver Ear\nHeadphones Form Factor\tIn Ear\nNoise Control\tNone\nSensitivity\t92 dB\nHeadphones Jack\t3.5 mm Jack\nModel Name\tHE05X\nConnectivity Technology\tWireless\nWireless Communication Technology\tBluetooth",
     "image": "images/product-26-primary.webp",
     "images": {
@@ -480,15 +480,15 @@
       ]
     },
     "category": "headphones",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 271.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 27,
     "name": "Air pods A9 Pro Touch Screen ",
-    "price": 579.99,
+    "price": 580.00,
     "description": "\nBrand Name\tANC/ENC\nColor\tWhite\nHeadphones Ear Placement\tIn Ear\nHeadphones Form Factor\tIn Ear\nImpedance\t42 Ohm\nNoise Control\tActive Noise Cancellation (ANC)\nFrequency Response\t20.2 Hz\nSensitivity\t88 dB\nHeadphones Jack\t3.5 mm Jack\nModel Name\tA9 Pro",
     "image": "images/product-27-primary.webp",
     "images": {
@@ -500,15 +500,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 580.00,
+    "discount": true,
+    "discountedPrice": 463.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 28,
     "name": "Langsdom Wireless Earbuds",
-    "price": 559.99,
+    "price": 560.00,
     "description": "\nBrand\tLangsdom\nColour\tWhite\nForm factor\tIn Ear\nImpedance\t16 Ohm\nHeadphone jack\tUSB\nModel name\tDelta\nConnectivity technology\tWireless\nWireless communication technologies\tBluetooth\nIncluded components\tCable, Protective Charging Case\nAge range (description)\tAdult",
     "image": "images/product-28-primary.webp",
     "images": {
@@ -519,15 +519,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 447.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 29,
     "name": "Oraimo FreePods Lite OEB-E106DC",
-    "price": 799.99,
+    "price": 800.00,
     "description": "Clear stereo sound with high quality.\n\nStylish design in black.\n\nComfortable fit with secure wear.\n\nPerfect for music and calls in daily use.\n\nGood battery life for longer use without frequent charging.\nSKU: OR944CA3ANA2PNAFAMZ\nModel: FreePods Lite OEB-E106DC\nColor: Black",
     "image": "images/product-29-primary.webp",
     "images": {
@@ -539,15 +539,15 @@
       ]
     },
     "category": "Airpods",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 639.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 30,
     "name": "Micro SD T17 Card Reader",
-    "price": 24.99,
+    "price": 25.00,
     "description": "\nBrand Name\tOther\nMedia Type\tSD Card\nConnectivity Technology\tUSB 2.0\nSpecial Features\tcompact size\nColor\tblue\nCompatible Devices\tDesktop, Laptop\nModel Name\tMT\nHardware Interface\tMicroSD, USB 2.0\nManufacturer\tOther\nSlot Count\t1",
     "image": "images/product-30-primary.webp",
     "images": {
@@ -558,15 +558,15 @@
       ]
     },
     "category": "Card Reader",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 19.99,
     "stock": 6,
     "isNew": false
   },
   {
     "id": 31,
     "name": " OT108C USB 3.1 to USB-C adapter",
-    "price": 49.99,
+    "price": 50.00,
     "description": "Brand: Earldom \nModel: OT108C\nFunctionality: Converts a USB 3.1 Type-A port to a USB Type-C port, supporting fast charging and data transfer. \nFeatures: Plug-and-play functionality, high-speed data transmission, and support for USB On-The-Go (OTG) devices. ",
     "image": "images/product-31-primary.webp",
     "images": {
@@ -576,15 +576,15 @@
       ]
     },
     "category": "OTG",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 39.99,
     "stock": 10,
     "isNew": false
   },
   {
     "id": 32,
     "name": "Earldom ET-OT03",
-    "price": 49.99,
+    "price": 50.00,
     "description": "\nCompatible Devices\tCellular Phones\nConnector Type\tMicro USB\nColor\tBlack\nBrand Name\tEarldom\nItem Package Quantity\t1\nInput Voltage\t240 Volts\nPower Plug\tNo Plug\nManufacturer\tEarldom",
     "image": "images/product-32-primary.webp",
     "images": {
@@ -594,15 +594,15 @@
       ]
     },
     "category": "OTG",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 39.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 33,
     "name": "card reader USB 2.0",
-    "price": 19.99,
+    "price": 20.00,
     "description": "\nBrand Name\tGeneric\nMedia Type\tmicroSD\nConnectivity Technology\tMicro USB, USB Type A\nSpecial Features\tPlug & Play, Extended Jack\nCompatible Devices\tLinux, Smartphone, Windows, macOS\nHardware Interface\tUSB 2.0\nManufacturer\tGENARIC",
     "image": "images/product-33-primary.webp",
     "images": {
@@ -613,15 +613,15 @@
       ]
     },
     "category": "Card Reader",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 15.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 34,
     "name": "Bluetooth USB Adapter Dongle",
-    "price": 89.99,
+    "price": 90.00,
     "description": "Brand Name\tGeneric\nMaterial\tMetal\nItem Weight\t50 Grams\nColor\tSilver\nBluetooth support?\tYes\nConnector Type\tUSB Type A\nData Link Protocol\tbluetooth",
     "image": "images/product-34-primary.webp",
     "images": {
@@ -632,15 +632,15 @@
       ]
     },
     "category": "Dongle",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 71.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 35,
     "name": "Kingston USB Memory Sticks 8GB ",
-    "price": 149.99,
+    "price": 150.00,
     "description": "Kingston USB Memory Sticks 8GB\n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.\nDTIG4/3 is available in capacities of up to and is backed by a five-year",
     "image": "images/product-35-primary.webp",
     "images": {
@@ -648,15 +648,15 @@
       "gallery": []
     },
     "category": "Flash",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 119.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 36,
     "name": "Kingston USB Memory Sticks 16GB ",
-    "price": 189.99,
+    "price": 190.00,
     "description": "Kingston USB Memory Sticks 16GB \n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.\nDTIG4/3 is available in capacities of up to",
     "image": "images/product-36-primary.webp",
     "images": {
@@ -664,15 +664,15 @@
       "gallery": []
     },
     "category": "Flash",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 151.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 37,
     "name": "Kingston USB Memory Sticks 32GB",
-    "price": 219.99,
+    "price": 220.00,
     "description": "Kingston USB Memory Sticks 32GB \n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.",
     "image": "images/product-37-primary.webp",
     "images": {
@@ -680,15 +680,15 @@
       "gallery": []
     },
     "category": "Flash",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 175.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 38,
     "name": "Kingston USB Memory Sticks 64GB",
-    "price": 249.99,
+    "price": 250.00,
     "description": "Kingston USB Memory Sticks  64GB \n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.",
     "image": "images/product-38-primary.webp",
     "images": {
@@ -696,15 +696,15 @@
       "gallery": []
     },
     "category": "Flash",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 199.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 39,
     "name": "Kingston USB Memory Sticks128GB",
-    "price": 299.99,
+    "price": 300.00,
     "description": "Kingston USB Memory Sticks 128GB\n\nKingston’s DataTraveler® Generation 4 (DTIG4) and (DTIG3) USB Flash drive features USB 3.0\nfor quick and easy transfers of music, video and more. Its practical design and\nfashionable colours make it ideal for everyday use at work, home, school or\nwherever you need to take your data.\nIt’s backwards compatible with existing USB 2.0 ports, allowing 2.0 users to\nmigrate to 3.0 in the future without replacing their drive.",
     "image": "images/product-39-primary.webp",
     "images": {
@@ -712,15 +712,15 @@
       "gallery": []
     },
     "category": "Flash",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 40,
     "name": "Microdigit 16GB Memory Card",
-    "price": 179.99,
+    "price": 180.00,
     "description": "This microSD card is designed to be reliable, making it ideal for filming in HD and shooting high-resolution photos on your Android™ smartphone. This card is tested to be durable, so you can take it anywhere with the confidence that your photos, videos and other data will be protected. Compact and easy to use As the smallest SD flash memory card, the microSDHC/microSDXC Class 10 uhs-i is a standard salable storage option that is suitable for use in a wide range of tablet computers, smartphones, and cameras. It can also be used in conjunction with another SD flash memory card adapter to match the standard SDHC/SDXC host equipment. Shockproof, anti-x ray, high and low temperature, can safely pass the airport X-ray machine, widely adapt to various working environment. Keep your files protected in harsh environments.This microSD card is designed to be reliable, making it ideal for filming in HD and shooting high-resolution photos on your Android™ ",
     "image": "images/product-40-primary.webp",
     "images": {
@@ -728,15 +728,15 @@
       "gallery": []
     },
     "category": "Flash",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 143.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 41,
     "name": "Microdigit 32GB Memory Card",
-    "price": 229.99,
+    "price": 230.00,
     "description": "This microSD card is designed to be reliable, making it ideal for filming in HD and shooting high-resolution photos on your Android™ smartphone. This card is tested to be durable, so you can take it anywhere with the confidence that your photos, videos and other data will be protected. \nCompact and easy to use ",
     "image": "images/product-41-primary.webp",
     "images": {
@@ -744,15 +744,15 @@
       "gallery": []
     },
     "category": "Flash",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 183.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 42,
     "name": "X-FAST 35W USB-C Power Adapter.",
-    "price": 249.99,
+    "price": 250.00,
     "description": "The adapter is compatible with the iPhone .\nIt features a 35W output and a USB-C port. \nThe adapter is designed for fast charging and includes a USB-C to Lightning cable. \nIt is described as a compact and portable charger suitable for travel, home, or office use. \nSome versions of 35W USB-C adapters have built-in safety features to protect against over-voltage, overheating, and short circuits. ",
     "image": "images/product-42-primary.webp",
     "images": {
@@ -760,15 +760,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 199.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 43,
     "name": "Anker USB-C to Lightning Cable. ",
-    "price": 69.99,
+    "price": 70.00,
     "description": "This is a 1-meter cable designed for charging Apple devices.\nThe packaging indicates it supports Power Delivery (PD) with a 20W output.\nThe cable is compatible with iPhones and other Apple products that use a Lightning port.\nThe product is available for purchase from various electronics retailers and online stores.",
     "image": "images/product-43-primary.webp",
     "images": {
@@ -776,15 +776,15 @@
       "gallery": []
     },
     "category": "Cables",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 55.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 44,
     "name": "X-FAST USB-C to C 35W Power Adapter",
-    "price": 169.99,
+    "price": 170.00,
     "description": "Model: X-003\nPower: 35W\nPorts: It has a USB-C port and is designed for fast charging. \nCompatibility: The adapter is compatible with a wide range of devices, including iPhones, iPads, and other USB-powered devices",
     "image": "images/product-44-primary.webp",
     "images": {
@@ -792,15 +792,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 135.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 45,
     "name": "Kingdom Golden\" brand fast charger, model Ki-13, with a 25W",
-    "price": 299.99,
+    "price": 300.00,
     "description": "It is a dual-port charger with a USB and a Type-C port. \nThe charger is marketed as \"FASTER AND SMALLER\". \nIt has a power output of 25W. \nIt features protection against over-voltage, short circuits, and high temperatures. ",
     "image": "images/product-45-primary.webp",
     "images": {
@@ -808,15 +808,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 2,
     "isNew": false
   },
   {
     "id": 46,
     "name": "STEEL 65W fast charger adapter",
-    "price": 199.99,
+    "price": 200.00,
     "description": "Power: It has a maximum output of 65W.\nTechnology: It utilizes GaN technology, which allows for a smaller, more efficient charger. \nCompatibility: It is compatible with various devices, including laptops, smartphones, and tablets from brands like Apple, Samsung, and others. ",
     "image": "images/product-46-primary.webp",
     "images": {
@@ -824,15 +824,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 159.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 47,
     "name": "Everest Fast Three Port Charger (Model EV-078)",
-    "price": 549.99,
+    "price": 550.00,
     "description": "Product Name: Everest Fast Three Port Charger (Model EV-078)\nPorts: USB-A, USB-C, and USB-L (Lightning)\nFeatures: Fast charging, safety certification, and a portable design\nCompatibility: Supports various USB charging digital devices.",
     "image": "images/product-47-primary.webp",
     "images": {
@@ -840,15 +840,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 439.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 48,
     "name": "Samsung 25W PD (Power Delivery) USB-C adapter",
-    "price": 349.99,
+    "price": 350.00,
     "description": "This wall charger provides Super Fast Charging at up to 25W for compatible devices. \nIt is designed to be used with a USB-C to USB-C charging cable. \nThe charger is available in both black and white. \nIt is designed to be safe from overcurrent, short circuits, and high temperatures",
     "image": "images/product-48-primary.webp",
     "images": {
@@ -856,15 +856,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 279.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 49,
     "name": "35W USB-C Power Adapter.",
-    "price": 449.99,
+    "price": 450.00,
     "description": "It is a dual USB-C port compact power adapter that allows you to charge two devices at the same time. \nThe adapter is compatible with any USB-C-enabled device, including iPhone, iPad, Apple Watch, AirPods, and MacBook Air. \nThe compact size and folding pins make it easy to pack and store. ",
     "image": "images/product-49-primary.webp",
     "images": {
@@ -872,15 +872,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 359.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 50,
     "name": "35W USB-C Power Adapter, which is marketed for use with the iPhone",
-    "price": 474.99,
+    "price": 475.00,
     "description": "The adapter is designed for fast charging and has a power output of 35W. \nIt is compatible with devices that use a USB-C charging cable. \nThe adapter's compact size and folding pins make it easy to pack and store. ",
     "image": "images/product-50-primary.webp",
     "images": {
@@ -888,15 +888,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 379.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 51,
     "name": " Apple 20W USB-C Power Adapter.",
-    "price": 939.99,
+    "price": 940.00,
     "description": "It is a wall charger that provides fast and efficient charging for compatible devices. \nIt is compatible with any USB-C enabled device, but Apple recommends pairing it with the 11-inch iPad Pro and 12.9-inch iPad Pro (3rd generation) for optimal charging performance. \nIt can charge an iPhone 8 or later up to 50% in about 35 minutes. \nThe adapter is available in white. \nThe charging cable is sold separately",
     "image": "images/product-51-primary.webp",
     "images": {
@@ -904,15 +904,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 751.99,
     "stock": 2,
     "isNew": false
   },
   {
     "id": 52,
     "name": " Everest PD 20W Bright Fast Charger, model EV-200",
-    "price": 399.99,
+    "price": 400.00,
     "description": "The product is an Everest PD 20W Bright Fast Charger, model EV-200. \nModel: EV-200\nCharging technology: PD (Power Delivery) 20W fast charging.\nPort type: USB-C.\nManufacturer: Everest.",
     "image": "images/product-52-primary.webp",
     "images": {
@@ -920,15 +920,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 319.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 53,
     "name": " Everest brand Adapter with a power output of 45W. ",
-    "price": 299.99,
+    "price": 300.00,
     "description": "It is an Everest brand charger with a power output of 45W. \nThe charger supports QC3.0 and PD (Power Delivery) technologies. \nIt is a wall charger with a European-style plug. \nThe charger is designed for fast and efficient charging of various devices, including smartphones, tablets, and laptops. ",
     "image": "images/product-53-primary.webp",
     "images": {
@@ -936,15 +936,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 2,
     "isNew": false
   },
   {
     "id": 54,
     "name": "Everest CH-17 PD Charger.",
-    "price": 229.99,
+    "price": 230.00,
     "description": "The product is a \"SUPER FAST\" PD (Power Delivery) charger.\nIt has a power output of 25W.\nThe charger is designed to be a wall adapter.\nIt is labeled with \"QUALITY PRODUCT\".",
     "image": "images/product-54-primary.webp",
     "images": {
@@ -952,15 +952,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 183.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 55,
     "name": "Everest EV-072 Super Fast Charger with a 35W power adapter",
-    "price": 269.99,
+    "price": 270.00,
     "description": "The product shown is an Everest Super Fast Charger, Model EV-072. It is a 35W power adapter with Qualcomm Quick Charge 3.0 technology. \nProduct: Everest Super Fast Charger\nModel: EV-072\nFeatures: Super Fast Charger, Qualcomm Quick Charge 3.0, 35W Power Adapter\nType: Wall charger\nCompatibility: Multi-device compatible (based on similar products)",
     "image": "images/product-55-primary.webp",
     "images": {
@@ -968,15 +968,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 215.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 56,
     "name": "Everest Super Fast Charger",
-    "price": 199.99,
+    "price": 200.00,
     "description": "Brand: Everest\nModel: EV-071\nType: Wall Charger\nFeatures: Super Fast Charger, 25W, Adaptive Fast Charging\nPotential availability: The charger and other Everest products are available from various online retailers.",
     "image": "images/product-56-primary.webp",
     "images": {
@@ -984,15 +984,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 159.99,
     "stock": 2,
     "isNew": false
   },
   {
     "id": 57,
     "name": "Everest SuperVOOC fast charger",
-    "price": 239.99,
+    "price": 240.00,
     "description": "It is a wall charger with a European plug. \nThe charger supports SuperVOOC, Fast-Charge, and Turbo-Charge technologies for fast charging. \nIt is designed for use with mobile phones and tablets. \nThe charger has a built-in intelligent control chip that protects against overvoltage, overcurrent, and overheating. \n",
     "image": "images/product-57-primary.webp",
     "images": {
@@ -1000,15 +1000,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 191.99,
     "stock": 1,
     "isNew": false
   },
   {
     "id": 58,
     "name": "Everest QC3.0 fast Adapter",
-    "price": 199.99,
+    "price": 200.00,
     "description": "Brand: Everest\nModel: EV-074\nFeatures: QC3.0 Fast Adapter with a USB port and a European (EU) plug.\nType: Wall charge",
     "image": "images/product-58-primary.webp",
     "images": {
@@ -1016,15 +1016,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 159.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 59,
     "name": "Samsung 25W PD Adapter with a USB-C to USB-C cable",
-    "price": 219.99,
+    "price": 220.00,
     "description": "The charger provides Super Fast Charging with USB-C PD 3.0 PPS at up to a maximum of 25W for compatible devices. \nIt is available in black and white. \nThe adapter uses Power Delivery (PD) to provide an efficient charge and can charge any PD device up to 25W. \nThe charger is designed to be safe from overcurrent, short circuits, and high temperatures. ",
     "image": "images/product-59-primary.webp",
     "images": {
@@ -1032,15 +1032,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 175.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 60,
     "name": " EV-500. It is a super charger",
-    "price": 299.99,
+    "price": 300.00,
     "description": "The charger comes with a 1-meter cable.\nThe product is a wall charger compatible with mobile phones and tablets.\nThe charger has a USB-A port",
     "image": "images/product-60-primary.webp",
     "images": {
@@ -1048,15 +1048,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 61,
     "name": "Everest High-Speed Charger (model EV-400).",
-    "price": 249.99,
+    "price": 250.00,
     "description": "It is a QC3.0 Super Charger with a Type-C cable.\nThe cable length is 1000mm.\nThe charger is capable of 100% Super VOOC fast charging.\nIt features advanced protection for safe charging.",
     "image": "images/product-61-primary.webp",
     "images": {
@@ -1064,15 +1064,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 199.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 62,
     "name": "EV-300 Super VOOC Charger. ",
-    "price": 239.99,
+    "price": 240.00,
     "description": "t is a wall charger with a Type-C port.\nThe package mentions مwhich translates to \"High-quality product\" in Arabic.\nIt supports fast charging technologies like Power Delivery (PD) and Quick Charge (QC).\nThe charger has dual ports, allowing you to charge two devices at once.\nIt is a compact and portable charger, making it suitable for travel.",
     "image": "images/product-62-primary.webp",
     "images": {
@@ -1080,15 +1080,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 191.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 63,
     "name": "V-600 Dual USB Charger with a micro USB cable. ",
-    "price": 159.99,
+    "price": 160.00,
     "description": "Product Name: Everest EV-600 Dual USB Charger\nFeatures: Dotted design, dual USB ports, includes a micro-USB cable.\nFunctionality: Wall charger for charging two devices simultaneously.",
     "image": "images/product-63-primary.webp",
     "images": {
@@ -1096,14 +1096,14 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 127.99,
     "stock": 3,
     "isNew": false
   },
   {
     "name": "STEEL 65W fast charger adapter (Copy)",
-    "price": 199.99,
+    "price": 200.00,
     "description": "Power: It has a maximum output of 65W.\nTechnology: It utilizes GaN technology, which allows for a smaller, more efficient charger. \nCompatibility: It is compatible with various devices, including laptops, smartphones, and tablets from brands like Apple, Samsung, and others. ",
     "image": "images/product-46-primary.webp",
     "images": {
@@ -1111,15 +1111,15 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 159.99,
     "stock": 5,
     "isNew": false,
     "id": 64
   },
   {
     "name": " Everest brand Adapter with a power output of 45W.  (Copy)",
-    "price": 299.99,
+    "price": 300.00,
     "description": "It is an Everest brand charger with a power output of 45W. \nThe charger supports QC3.0 and PD (Power Delivery) technologies. \nIt is a wall charger with a European-style plug. \nThe charger is designed for fast and efficient charging of various devices, including smartphones, tablets, and laptops. ",
     "image": "images/product-53-primary.webp",
     "images": {
@@ -1127,8 +1127,8 @@
       "gallery": []
     },
     "category": "Adapter",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 2,
     "isNew": false,
     "id": 65
@@ -1136,7 +1136,7 @@
   {
     "id": 66,
     "name": "Hi-CLASS Super Fast Charging Data Cable",
-    "price": 119.99,
+    "price": 120.00,
     "description": "The cable has a copper core and supports up to 60W output.\nThe model number appears to be \"Hi-10\" and \"TC-IPX\".\nIt is a charging and data transfer cable.\nThe cable is available in both a white and a black braided version.",
     "image": "images/product-66-primary.webp",
     "images": {
@@ -1144,15 +1144,15 @@
       "gallery": []
     },
     "category": "Cables",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 95.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 67,
     "name": " Hi-Class Super Fast Charging Data Cable.",
-    "price": 99.99,
+    "price": 100.00,
     "description": "This is a USB-C to USB-C cable that supports super-fast charging with a copper core. \nIt has a power output of 60W. \nThe cable is designed for both charging and data transfer. \nThe product is available from various online retailers and stores",
     "image": "images/product-67-primary.webp",
     "images": {
@@ -1160,15 +1160,15 @@
       "gallery": []
     },
     "category": "Cables",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 79.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 68,
     "name": " Hi-Class VOOC Super Fast Charger",
-    "price": 219.99,
+    "price": 220.00,
     "description": "OOC (Voltage Open Loop Multi-step Constant-Current Charging) is a fast-charging technology developed by OPPO. \nIt is compatible with various smartphones, including OPPO, Realme, and OnePlus. \nThe charger has a 30W output and supports fast-charging protocols like Super VOOC, SuperDart, Warp Charge, and Dash Charge. ",
     "image": "images/product-68-primary.webp",
     "images": {
@@ -1176,15 +1176,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 175.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 69,
     "name": " Hi-Class brand wall charger with a Type-C cable. ",
-    "price": 179.99,
+    "price": 180.00,
     "description": "Brand: Hi-Class\nProduct Type: Wall Charger with Type-C cable\nFeatures: The packaging indicates \"Multiple Protection\" and \"3.1A\" output, suggesting it is a fast charger.\nAvailability: Similar Hi-Class products are available from various online retailers",
     "image": "images/product-69-primary.webp",
     "images": {
@@ -1192,15 +1192,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 143.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 70,
     "name": "Hi-Class Dual USB Charger.",
-    "price": 119.99,
+    "price": 120.00,
     "description": "It is a wall charger with two USB ports.\nThe charger has an output of 2.1A.\nThe package includes a 1000mm (1-meter) Type-C charging cable.\nThe model number is Hi-201.",
     "image": "images/product-70-primary.webp",
     "images": {
@@ -1208,15 +1208,15 @@
       "gallery": []
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 95.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 71,
     "name": "Blue Spectrum F-7 Stereo Earphone. ",
-    "price": 54.99,
+    "price": 55.00,
     "description": "Model: F-7\nType: Wired Stereo Earphone\nFeatures: In-ear design, built-in microphone, surround music, and a 3.5mm jack for universal compatibility with most devices.\nConnectivity: Wired.",
     "image": "images/product-71-primary.webp",
     "images": {
@@ -1224,15 +1224,15 @@
       "gallery": []
     },
     "category": "Earphone",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 43.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 72,
     "name": " Blue Spectrum F-31 earphones",
-    "price": 54.99,
+    "price": 55.00,
     "description": "Product Name: Blue Spectrum EARPHONE F-31\nFeatures: Includes a 3.5mm audio jack and a microphone.\nColor: White\nType: Wired earphones",
     "image": "images/product-72-primary.webp",
     "images": {
@@ -1240,15 +1240,15 @@
       "gallery": []
     },
     "category": "Earphone",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 43.99,
     "stock": 2,
     "isNew": false
   },
   {
     "id": 73,
     "name": "Blue Spectrum R-9 Earphone. ",
-    "price": 54.99,
+    "price": 55.00,
     "description": "It is a wired earphone with a 3.5mm AUX connector.\nIt features a built-in microphone and in-line controls.\nThe earphones have a 1.2m flexible cable.\nIt is designed for use with mobile phones and computers.",
     "image": "images/product-73-primary.webp",
     "images": {
@@ -1256,15 +1256,15 @@
       "gallery": []
     },
     "category": "Earphone",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 43.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 74,
     "name": "Blue Spectrum BS-03 Stereo Universal Earphone.",
-    "price": 69.99,
+    "price": 70.00,
     "description": "It is a wired earphone with a 3.5mm audio jack. \nIt features a built-in microphone and in-line controls for managing music and calls. \nThe earphones have an ergonomic in-ear design with a 10mm headphone diameter. \nThe cord length is 135cm. ",
     "image": "images/product-74-primary.webp",
     "images": {
@@ -1275,15 +1275,15 @@
       ]
     },
     "category": "Earphone",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 55.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 75,
     "name": " Blue Spectrum R-3 Stereo in-ear headphones",
-    "price": 69.99,
+    "price": 70.00,
     "description": "Feature \tDetail\nBrand\tBlue Spectrum\nModel\tR-3\nType\tWired, In-ear headphones\nConnectivity\t3.5mm AUX jack (compatible with most phones)\nSound\tStereo sound, extra bass feature\nMicrophone\tYes, built-in for calls\nControls\tIn-line control button for music (pause/play) and calling (answer/end)\nFrequency Response\t20Hz-20KHz\nCable Length\tApproximately 1.35m to 1.4m",
     "image": "images/product-75-primary.webp",
     "images": {
@@ -1291,15 +1291,15 @@
       "gallery": []
     },
     "category": "Earphone",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 55.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 76,
     "name": " Blue Spectrum earphones, specifically the F-2 model",
-    "price": 79.99,
+    "price": 80.00,
     "description": "Brand: Blue Spectrum\nModel: F-2\nFeatures: The packaging highlights \"Super Bass\" and \"Premium Quality Handfree\". \nConnectivity: The earphones are wired and use a 3.5mm audio jack, making them compatible with various devices. ",
     "image": "images/product-76-primary.webp",
     "images": {
@@ -1307,15 +1307,15 @@
       "gallery": []
     },
     "category": "Earphone",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 63.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 77,
     "name": "Blue Spectrum M-16 Stereo Earphone",
-    "price": 79.99,
+    "price": 80.00,
     "description": "It is a wired, in-ear earphone with a built-in microphone for hands-free calling. \nThe earphones are compatible with devices that have a 3.5mm audio jack. \nIt has a speaker diameter of 10 mm and a frequency range of 20Hz-20kHz. \nThe wire length is 135 cm. ",
     "image": "images/product-77-primary.webp",
     "images": {
@@ -1323,15 +1323,15 @@
       "gallery": []
     },
     "category": "Earphone",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 63.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 78,
     "name": "HK10 Pro+ multi-functional smartwatch.",
-    "price": 899.99,
+    "price": 900.00,
     "description": "Display: It features an AMOLED display with a 410 x 494 resolution. \nFeatures: The smartwatch includes a real compass, NFC access, AI ChatGPT integration, music playback, and an e-book reader. It also supports health tracking for heart rate, blood pressure, and sleep. \nConnectivity: The watch supports Bluetooth calling and can connect to TWS earbuds. \nDesign: It has a sporty design and is rated IP68 for water resistance. ",
     "image": "images/product-78-primary.webp",
     "images": {
@@ -1342,15 +1342,15 @@
       ]
     },
     "category": "Smart Watch",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 719.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 79,
     "name": " HK9 Ultra 2 Max smartwatch",
-    "price": 899.99,
+    "price": 900.00,
     "description": "This smartwatch features a 2.12-inch AMOLED screen and 2GB of internal storage. \nIt includes features like health monitoring (heart rate, blood oxygen), fitness tracking, and smart notifications. \nThe watch supports Bluetooth 5.0 for connectivity and has an IP68 water-resistant rating. \nIt also includes an AI-powered voice assistant and a ChatGPT feature. ",
     "image": "images/product-79-primary.webp",
     "images": {
@@ -1362,15 +1362,15 @@
       ]
     },
     "category": "Smart Watch",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 719.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 80,
     "name": "T900 Ultra2 Big Smart Watch.",
-    "price": 479.99,
+    "price": 480.00,
     "description": "t features a large 49mm or 2.19-inch infinite display. \nThe smartwatch supports wireless charging and Bluetooth calling. \nIt is compatible with both Android and iOS devices. \nThe watch includes health monitoring features such as heart rate, blood pressure, and sleep tracking, as well as multiple sports modes. \nThe battery can last up to 5 days on a full charge. ",
     "image": "images/product-80-primary.webp",
     "images": {
@@ -1381,15 +1381,15 @@
       ]
     },
     "category": "Smart Watch",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 383.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 81,
     "name": "HK22 Ultra 2 smartwatch",
-    "price": 899.99,
+    "price": 900.00,
     "description": "The watch features a high-resolution touchscreen, fitness tracking, heart rate monitoring, and smart notifications. \nIt has Bluetooth 5.2 connectivity and supports making and answering calls. \nSome versions of the watch, such as the HK9 Ultra 2, include a 2.02-inch AMOLED screen, ChatGPT, and a compass. \nThe watch is water-resistant and comes with interchangeable straps. ",
     "image": "images/product-81-primary.webp",
     "images": {
@@ -1401,15 +1401,15 @@
       ]
     },
     "category": "Smart Watch",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 719.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 82,
     "name": "T1000 Ultra Smart Watch.",
-    "price": 449.99,
+    "price": 450.00,
     "description": "It is a smartwatch with a 2.2-inch infinite full-touch display and wireless charging capabilities. \nThe watch features health tracking for heart rate, blood pressure, oxygen levels, and sleep patterns. \nIt has an IP68 waterproof rating and supports Bluetooth calling, allowing you to make and answer calls directly from the watch. \nIt is compatible with both iOS and Android devices. ",
     "image": "images/product-82-primary.webp",
     "images": {
@@ -1420,15 +1420,15 @@
       ]
     },
     "category": "Smart Watch",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 359.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 83,
     "name": "JSYES M70 Max Ultra 2 smartwatch.",
-    "price": 949.99,
+    "price": 950.00,
     "description": "It is a smartwatch that supports calls, Chat GPT, and NFC. \nIt comes with seven interchangeable straps. \nThe watch has a large, clear touchscreen display. \nIt includes advanced health and fitness tracking features like heart rate monitoring, blood pressure, and sleep tracking. \nThe smartwatch is designed to be compatible with both iPhone and Android devices. ",
     "image": "images/product-83-primary.webp",
     "images": {
@@ -1439,15 +1439,15 @@
       ]
     },
     "category": "Smart Watch",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 759.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 84,
     "name": "W&O Little Star X10 Ultra 3 smartwatch.",
-    "price": 999.99,
+    "price": 1000.00,
     "description": "It features a curved screen and wireless charging. \nThe watch is compatible with both Android and iOS devices. \nIt includes health tracking features such as heart rate monitoring, sleep tracking, and step counting. \nThe watch has a built-in voice assistant and supports NFC for payments. ",
     "image": "images/product-84-primary.webp",
     "images": {
@@ -1457,15 +1457,15 @@
       ]
     },
     "category": "Smart Watch",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 799.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 85,
     "name": "MJ-06 magnetic fill light. It is a mini RGB LED light",
-    "price": 379.99,
+    "price": 380.00,
     "description": "It features RGB lighting and adjustable brightness. \nThe light has a magnetic mounting system and can also be attached with a clip. \nIt is rechargeable and has a built-in battery. \nThe light is suitable for content creation, such as video shooting and vlogging. ",
     "image": "images/product-85-primary.webp",
     "images": {
@@ -1477,15 +1477,15 @@
       ]
     },
     "category": "Diverse",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 303.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 86,
     "name": "K03 Clip Fill Light, a portable LED light",
-    "price": 299.99,
+    "price": 300.00,
     "description": "The K03 Clip Fill Light is a clip-on light for mobile phones that features adjustable brightness and dimming control. \nIt is designed for use in various scenarios, including selfies, video calls, live streaming, and makeup application. \nThe product is available for purchase in Egypt from various retailers, with prices starting from approximately EGP 380. \nThe light has a CCT (Correlated Color Temperature) feature, which allows for adjusting the color temperature between white and warm light. \n",
     "image": "images/product-86-primary.webp",
     "images": {
@@ -1495,15 +1495,15 @@
       ]
     },
     "category": "Diverse",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 87,
     "name": " K02 heart-shaped mobile phone camera fill light",
-    "price": 299.99,
+    "price": 300.00,
     "description": "Design: Heart-shaped with a clip-on feature for easy attachment to a mobile phone.\nFeatures: It has adjustable brightness and three light modes. \nPower: It is rechargeable for convenience on the go. \nUse: It provides additional illumination to reduce shadows and enhance the clarity of photos and videos. ",
     "image": "images/product-87-primary.webp",
     "images": {
@@ -1514,15 +1514,15 @@
       ]
     },
     "category": "Diverse",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 88,
     "name": "K01 Mobile Phone Camera Fill Light.",
-    "price": 299.99,
+    "price": 300.00,
     "description": "It has 3 adjustable brightness levels.\nIt features a long-lasting rechargeable battery.\nIt is suitable for mobile, camera, and high-quality video shooting.",
     "image": "images/product-88-primary.webp",
     "images": {
@@ -1530,15 +1530,15 @@
       "gallery": []
     },
     "category": "Diverse",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 89,
     "name": " AY-49 Video Making Kit. It is a vlogging kit designed for content creators to use with their smartphones",
-    "price": 299.99,
+    "price": 300.00,
     "description": "The kit typically includes a microphone, an LED light, a mini tripod, and a phone holder. \nIt is compatible with most smartphones and is suitable for various uses like vlogging, live streaming, and photography. \nThe LED light has adjustable brightness, and the microphone is designed for clear audio capture. \nThe tripod is versatile and can be used as a handheld grip or a stand. \nThe kit is available for purchase from various online retailers. ",
     "image": "images/product-89-primary.webp",
     "images": {
@@ -1549,15 +1549,15 @@
       ]
     },
     "category": "Diverse",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 239.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 90,
     "name": "Earldom PB65 Power Bank, a portable charger with a 10000mAh capacity",
-    "price": 399.99,
+    "price": 400.00,
     "description": "Model: Earldom PB65\nCapacity: 10000mAh\nOutput: 2A\nPrice: 199 EGP (based on the price shown in the image)\nFeatures: It is a portable power bank with a lithium polymer battery, suitable for charging various devices.",
     "image": "images/product-90-primary.webp",
     "images": {
@@ -1565,15 +1565,15 @@
       "gallery": []
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 319.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 91,
     "name": "Earldom power bank has a capacity of 20000 mAh.",
-    "price": 749.99,
+    "price": 750.00,
     "description": "he power bank has a capacity of 20000 mAh.\nIt is a wired power bank with multiple ports.\nThe device features a digital display to show the remaining battery level.\nThe power bank is designed for fast charging.",
     "image": "images/product-91-primary.webp",
     "images": {
@@ -1581,15 +1581,15 @@
       "gallery": []
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 599.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 92,
     "name": " PB-21 fast-charging power bank with a 30,000mAh capacity. ",
-    "price": 1299.99,
+    "price": 1300.00,
     "description": "It is a fast-charging power bank with a 30,000 mAh capacity. \nThe power bank has a 2.4A output. \nIt is equipped with multiple ports, including USB, Type-C, and Micro USB. \nThe device has a built-in li-polymer battery. ",
     "image": "images/product-92-primary.webp",
     "images": {
@@ -1599,15 +1599,15 @@
       ]
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 1039.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 93,
     "name": "Earldom Power Bank 10000mAh ",
-    "price": 549.99,
+    "price": 550.00,
     "description": "Capacity: 10000mAh\nOutput: 2.1A\nFeatures: It has two USB output ports and an LCD display.\nModel Number: ET-PB64",
     "image": "images/product-93-primary.webp",
     "images": {
@@ -1617,15 +1617,15 @@
       ]
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 439.99,
     "stock": 3,
     "isNew": false
   },
   {
     "id": 94,
     "name": "K9 Wireless Microphone",
-    "price": 369.99,
+    "price": 370.00,
     "description": "t offers plug-and-play functionality with automatic pairing, requiring no additional apps or software. \nThe microphone is compatible with devices featuring Type-C and Lightning ports, including smartphones and tablets. \nIt features intelligent noise reduction chips for clear recording and superior audio quality. \nThe system allows for dual recording, capturing audio from two transmitters simultaneously. \nEach microphone provides up to 6 hours of continuous use on a full charge. ",
     "image": "images/product-94-primary.webp",
     "images": {
@@ -1637,15 +1637,15 @@
       ]
     },
     "category": "Diverse",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 295.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 95,
     "name": "13-inch LED Ring Light, model M-330. ",
-    "price": 349.99,
+    "price": 350.00,
     "description": "Provides soft, even, and shadow-free illumination, ideal for selfies, live streaming, and makeup tutorials. \nFeatures three color temperatures (cool, warm, and natural) and adjustable brightness levels. \nDesigned to enhance facial features, soften skin, and minimize imperfections. \nOften comes with a tripod stand and a flexible phone holder for versatile use. \nThe price can be around LKR 3,990.00 in some markets. ",
     "image": "images/product-95-primary.webp",
     "images": {
@@ -1657,15 +1657,15 @@
       ]
     },
     "category": "Diverse",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 279.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 96,
     "name": " ESR HaloLock Mini Kickstand Wireless Power Bank",
-    "price": 999.99,
+    "price": 1000.00,
     "description": "Capacity: Typically available in 6,000 mAh or 10,000 mAh versions.\nCompatibility: Features HaloLock technology for secure, automatic magnetic alignment with MagSafe-compatible iPhones (iPhone 12 series and later).\nCharging Speeds: Offers up to 7.5 W wireless charging and supports 15W USB-C input and 12W USB-C output for wired charging.\nDesign: Includes a built-in, foldable kickstand that allows the phone to be propped up vertically or horizontally while charging.\nPortability: Designed to be compact and lightweight for easy carrying.",
     "image": "images/product-96-primary.webp",
     "images": {
@@ -1677,15 +1677,15 @@
       ]
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 799.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 97,
     "name": "DNIO AW003 32W Desktop Wireless Charger",
-    "price": 979.99,
+    "price": 980.00,
     "description": "Wireless Charging: Offers up to 15W wireless charging power. \nWired Charging: Includes four USB ports: one 30W PD port, one 18W QC3.0 port, and two USB-A ports, with a total power output of 32W. \nSafety Features: Made from fireproof material and includes overcharge, overcurrent, and overheating protection. \nDesign: Features a sleek, compact, and space-saving design suitable for home or office use. ",
     "image": "images/product-97-primary.webp",
     "images": {
@@ -1697,15 +1697,15 @@
       ]
     },
     "category": "Chargers",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 783.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 98,
     "name": "Earldom portable power bank. ",
-    "price": 449.99,
+    "price": 450.00,
     "description": "The power banks have a capacity of 10000mAh. \nEarldom produces various models of 10000mAh power banks, such as the PB-41, PB56, and PB54. \nThese devices are designed for charging smartphones and tablets on the go. \nFeatures often include an LED or digital display to monitor battery status and multiple output ports for charging several devices simultaneously. ",
     "image": "images/product-98-primary.webp",
     "images": {
@@ -1715,15 +1715,15 @@
       ]
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 359.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 99,
     "name": "ES-30 power banks manufactured by Estart.",
-    "price": 1699.99,
+    "price": 1700.00,
     "description": "Capacity: 30000 mAh\nFast Charging: Supports 22.5W fast charging, compatible with various fast charging protocols like PD and QC3.0.\nPorts: Includes both USB-C and USB-A output ports, as well as a micro-USB input/output port.\nDisplay: Features a smart digital display for real-time power monitoring.",
     "image": "images/product-99-primary.webp",
     "images": {
@@ -1731,15 +1731,15 @@
       "gallery": []
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 1359.99,
     "stock": 4,
     "isNew": false
   },
   {
     "id": 100,
     "name": "Inkax Fast Charging Power Bank PB-26 model. ",
-    "price": 449.99,
+    "price": 450.00,
     "description": "Brand: Inkax\nCapacity: 10,000 mAh\nOutput: 2.4A\nModel Number: PB-26\nFeatures: High capacity external battery, fastcharging capability, multiple ports (USB, Type-C, Micro USB depending on specific sub-model)",
     "image": "images/product-100-primary.webp",
     "images": {
@@ -1749,15 +1749,15 @@
       ]
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 359.99,
     "stock": 5,
     "isNew": false
   },
   {
     "id": 101,
     "name": " Earldom PB48 Power Bank. This portable charger has a 10000 mAh",
-    "price": 699.99,
+    "price": 700.00,
     "description": "Model: ET-PB48\nCapacity: 10000 mAh\nFeatures: Includes 3 built-in cables (Micro USB, Type-C, and Lightning 8-pin) and an LED display/emergency light.\nCompatibility: Works with a wide range of smartphones and tablets.",
     "image": "images/product-101-primary.webp",
     "images": {
@@ -1767,8 +1767,8 @@
       ]
     },
     "category": "Power Bank",
-    "discount": false,
-    "discountedPrice": 0.00,
+    "discount": true,
+    "discountedPrice": 559.99,
     "stock": 5,
     "isNew": false
   }
