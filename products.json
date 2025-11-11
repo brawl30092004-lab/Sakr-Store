@@ -16,7 +16,7 @@
     },
     "category": "Airpods",
     "discount": true,
-    "discountedPrice": 850.00,
+    "discountedPrice": 849.99,
     "stock": 10,
     "isNew": true
   },
@@ -62,7 +62,7 @@
   {
     "id": 4,
     "name": "START TWS02F",
-    "price": 725.00,
+    "price": 724.99,
     "description": "Quick Connect Technology – Stable Bluetooth connection for smooth pairing with your smartphone or tablet.\nPure Bass Sound – High-quality drivers deliver deep bass and clear audio for music and calls.\nSmart Touch Control – Control music playback, calls, and voice assistants with a simple touch.\nLong Battery Life – Up to 4 hours of continuous playback on a single charge; the charging case extends usage 3–4 times.\nCompact Charging Case – 250mAh case capacity keeps your earbuds powered on the go.\nComfortable In-Ear Fit – Lightweight ergonomic design for secure and comfortable wear all day.\nUniversal Compatibility – Works with iOS, Android, and other Bluetooth-enabled devices.",
     "image": "images/product-4-primary.webp",
     "images": {
@@ -81,7 +81,7 @@
   {
     "id": 5,
     "name": "START TWS03F",
-    "price": 650.00,
+    "price": 649.99,
     "description": "Charging Type\tLightning Port\nColour Name\twhite\nConnection Type\tBluetooth\nModel Number\tTWS03f\nBattery Size\t300 mAh\nDepartment\tUnisex\nEarplug Type\tEarbuds\nModel Name\tTWS03f",
     "image": "images/product-5-primary.webp",
     "images": {
@@ -880,7 +880,7 @@
   {
     "id": 50,
     "name": "35W USB-C Power Adapter, which is marketed for use with the iPhone",
-    "price": 475.00,
+    "price": 474.99,
     "description": "The adapter is designed for fast charging and has a power output of 35W. \nIt is compatible with devices that use a USB-C charging cable. \nThe adapter's compact size and folding pins make it easy to pack and store. ",
     "image": "images/product-50-primary.webp",
     "images": {
@@ -1168,7 +1168,7 @@
   {
     "id": 68,
     "name": " Hi-Class VOOC Super Fast Charger",
-    "price": 219.98,
+    "price": 219.99,
     "description": "OOC (Voltage Open Loop Multi-step Constant-Current Charging) is a fast-charging technology developed by OPPO. \nIt is compatible with various smartphones, including OPPO, Realme, and OnePlus. \nThe charger has a 30W output and supports fast-charging protocols like Super VOOC, SuperDart, Warp Charge, and Dash Charge. ",
     "image": "images/product-68-primary.webp",
     "images": {
@@ -1299,7 +1299,7 @@
   {
     "id": 76,
     "name": " Blue Spectrum earphones, specifically the F-2 model",
-    "price": 79.98,
+    "price": 79.99,
     "description": "Brand: Blue Spectrum\nModel: F-2\nFeatures: The packaging highlights \"Super Bass\" and \"Premium Quality Handfree\". \nConnectivity: The earphones are wired and use a 3.5mm audio jack, making them compatible with various devices. ",
     "image": "images/product-76-primary.webp",
     "images": {
@@ -1350,7 +1350,7 @@
   {
     "id": 79,
     "name": " HK9 Ultra 2 Max smartwatch",
-    "price": 899.97,
+    "price": 899.99,
     "description": "This smartwatch features a 2.12-inch AMOLED screen and 2GB of internal storage. \nIt includes features like health monitoring (heart rate, blood oxygen), fitness tracking, and smart notifications. \nThe watch supports Bluetooth 5.0 for connectivity and has an IP68 water-resistant rating. \nIt also includes an AI-powered voice assistant and a ChatGPT feature. ",
     "image": "images/product-79-primary.webp",
     "images": {
@@ -1573,7 +1573,7 @@
   {
     "id": 91,
     "name": "Earldom power bank has a capacity of 20000 mAh.",
-    "price": 749.98,
+    "price": 749.99,
     "description": "he power bank has a capacity of 20000 mAh.\nIt is a wired power bank with multiple ports.\nThe device features a digital display to show the remaining battery level.\nThe power bank is designed for fast charging.",
     "image": "images/product-91-primary.webp",
     "images": {
